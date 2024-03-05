@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Videogame for Teaching English and French</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Langues Peritus]([https://github.com/VicInf/Tesis])
 
 <h2>👨‍🎓 I'm currently learning:</h2>
 
