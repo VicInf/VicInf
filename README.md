@@ -7,7 +7,7 @@
 
 <h2>👨‍🎓 I'm currently learning:</h2>
 
-- <b>Python (I'm intermediate level right now)</b>
+- <b>Python </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
