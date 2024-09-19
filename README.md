@@ -13,6 +13,9 @@
 
 - [Working in youtube videos to explain my videogame project]
 
+<h2>Github Stats</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicInf&show_icons=true&theme=neon)
 
 <h2> 🤳 Connect with me:</h2>
 
