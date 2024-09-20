@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicente Pérez</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicinf" alt="vicinf" /></a> </p>
-
 - 🔭 I’m working at Myservy as a **Mobile Developer**
 
 - 🌱 I’m currently learning **Python**
