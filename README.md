@@ -15,9 +15,12 @@
 
 <h2>Github Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicInf&show_icons=true&theme=neon)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicInf&show_icons=true&locale=en&layout=compact" alt="VicInf" /></p>
+<p align="center">
+<a href="https://github.com/VicInf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VicInf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VicInf&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
 
 <h2> 🤳 Connect with me:</h2>
 
