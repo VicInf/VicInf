@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://github.com/VicInf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VicInf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VicInf&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VicInf&layout=compact&langs_count=8&theme=midnight-purple&hide=ShaderLab,ANTLR,HLSL"/>
 </a>
 </p>
 
