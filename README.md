@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vicente Pérez</h1>
-<h3 align="center">A passionate developer from Venezuela</h3>
+<h3 align="center">A passionate FrontEnd Developer from Venezuela</h3>
 
-- 🔭 I’m working at Myservy as a **Mobile Developer**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Python**
+Frontend Developer with 2.5+ years’ experience designing and publishing cross-platform apps (10k+ downloads). Skilled in Flutter, Angular, Firebase, REST APIs, and Clean Architecture. Proven ability to deliver scalable, user-friendly mobile solutions that improve client business processes.
+
+- 🔭 I’m working at Myservy as a **FrontEnd Developer**
 
 - 📫 How to reach me **vicenteapv1@gmail.com**
 
