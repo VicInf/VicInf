@@ -3,9 +3,9 @@
 
 ### 👨‍💻 About Me
 
-Frontend Developer with 2.5+ years’ experience designing and publishing cross-platform apps (10k+ downloads). Skilled in Flutter, Angular, Firebase, REST APIs, and Clean Architecture. Proven ability to deliver scalable, user-friendly mobile solutions that improve client business processes.
+Mobile Developer with 2.5+ years’ experience designing and publishing cross-platform apps (10k+ downloads). Skilled in Flutter, Angular, Firebase, REST APIs, and Clean Architecture. Proven ability to deliver scalable, user-friendly mobile solutions that improve client business processes.
 
-- 🔭 I’m working at Myservy as a **FrontEnd Developer**
+- 🔭 I’m working at Myservy as a **Mobile Developer**
 
 - 📫 How to reach me **vicenteapv1@gmail.com**
 
