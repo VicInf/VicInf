@@ -1,74 +1,56 @@
 <h1 align="center">Hi 👋, I'm Vicente Pérez</h1>
-<h3 align="center">A passionate FrontEnd Developer from Venezuela</h3>
+<h3 align="center">Project Lead &amp; Full-Stack Developer — Flutter · Angular · NestJS</h3>
 
 ### 👨‍💻 About Me
 
-Mobile Developer with 2.5+ years’ experience designing and publishing cross-platform apps (10k+ downloads). Skilled in Flutter, Angular, Firebase, REST APIs, and Clean Architecture. Proven ability to deliver scalable, user-friendly mobile solutions that improve client business processes.
+Project Lead and senior full-stack developer with 3+ years of experience bridging technical architecture with project execution. Currently leading a team of two engineers across mobile, web and backend at [Myservy](https://myservy.com) — building resilient enterprise systems end to end, from Flutter apps and Angular platforms to the NestJS services behind them.
 
-- 🔭 I’m working at Myservy as a **Mobile Developer**
+- 🔭 Currently leading the development of **Fluye**, a commercial transactions platform (Angular 22 + NestJS 11 monorepo)
+- 🚢 Shipped real-time fleet platform **Sidney** (2 Google Play apps), insurance app **Seguros Los Andes** (10k+ installs), and **Excuela** e-learning (10k+ installs)
+- 🎯 Migrated a legacy enterprise platform **Angular 13 → 18 → 21** — initial load time down 43%
 
-- 📫 How to reach me **vicenteapv1@gmail.com**
+### 🔴 Live Products
 
-- ⚡ Fun fact **I love videogames and gamification**
+| Product | What it is | Link |
+| --- | --- | --- |
+| **Sidney Clientes** · **Sidney Drivers** | Real-time fleet operations app pair — under my lead (apps + backend) | [Play Store](https://play.google.com/store/apps/details?id=com.sinergyz.sidney_client) |
+| **RiskyID** | Identity verification platform — Angular 13→21 migration, −43% load time | [platform.riskyid.com](https://platform.riskyid.com) |
+| **Seguros Los Andes** | Insurance policies app (Flutter) — 10k+ installs | [Play Store](https://play.google.com/store/apps/details?id=com.sinergyz.SLA) |
+| **Excuela** | E-learning platform (Flutter, Riverpod) — 10k+ installs | [Play Store](https://play.google.com/store/apps/details?id=com.excuela.aprende) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/vicinf">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-</p>
+### 🕹️ Portfolio
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-</p>
+A gamified, Persona 3 Reload–inspired portfolio of my work:
 
-<h2>Github Stats</h2>
+[![Portfolio](https://img.shields.io/badge/portfolio-vicinf.github.io%2Fportfolio-4ef0f0?style=for-the-badge&logo=angular.js&logoColor=white)](https://vicinf.github.io/portfolio/)
+
+### 🛠️ Languages & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-4d7bff?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%2FSCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-1f6feb?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+### 🌍 Languages
+
+Native Spanish · Bilingual English (UNIMET-certified) · French B2 (DELF-certified) · Learning Japanese
+
+<h2>GitHub Stats</h2>
 
 <p align="center">
 <a href="https://github.com/VicInf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VicInf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
 </a>
 </p>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **vicenteapv1@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/vicinf)
+- ⚡ Fun fact: **I love videogames and gamification — the themed details on my portfolio are on purpose**
