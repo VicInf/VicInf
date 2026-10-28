@@ -9,7 +9,7 @@ Project lead and senior full-stack developer. Three years of measurable impact: 
 - 🔭 Currently leading the development of **Fluye**, a commercial transactions platform (Angular 22 + NestJS 11 monorepo)
 - 🚢 Shipped the real-time fleet platform **Sidney** for a Venezuelan oil-sector contractor serving Chevron (2 Google Play apps), insurance app **Seguros Los Andes** (10k+ installs), and **Excuela** e-learning (10k+ installs)
 - 🎯 Migrated a legacy enterprise platform **Angular 13 → 18** (now on 21) — initial load time down 43%
-- 🤖 Established automated testing and own the CI/CD pipelines — including an agent-assisted implementation workflow gated by automated tests and mandatory code review
+- 🤖 Established automated testing and own the CI/CD pipelines
 
 ### 🔴 Live Products
 
@@ -49,6 +49,14 @@ A gamified, Persona 3 Reload–inspired portfolio of my work — prerendered, te
 ### 🌍 Languages
 
 Native Spanish · English C2 (UNIMET-certified) · French B2 (DELF-certified) · Learning Japanese
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+<a href="https://github.com/VicInf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VicInf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 - 📫 How to reach me: **vicenteapv1@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicinf)
