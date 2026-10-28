@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicente Pérez</h1>
 <h3 align="center">Project Lead &amp; Full-Stack Engineer — Flutter · Angular · NestJS</h3>
-<p align="center"><b>Available as a USD contractor · US Eastern hours</b></p>
+<p align="center"><b>Open to full-time &amp; contract · USD · US Eastern hours</b></p>
 
 ### 👨‍💻 About Me
 
